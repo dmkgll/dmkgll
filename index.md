@@ -11,6 +11,7 @@ layout: home
 
 ### Latest Updates...
 
+- 2022-05-30: [Escaping the Google Dragon](/new/sample)
 - 2022-05-30: [Static Website CMS Through GitHub + Jekyll](/)
 - 2022-05-30: [HATETRIS](/)
 - 2022-04-25: [Solving Tetris in C](/)
