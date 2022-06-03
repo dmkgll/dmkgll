@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This Is The Website of Deryk Makgill. I write about Bitcoin mostly, but other stuff as well.
+This is the website of Deryk Makgill. I write and do research here about Bitcoin mostly.
 
 ### Categories...
 
