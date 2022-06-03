@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# DM
+# DM's Blog
 
 ### Categories...
 
