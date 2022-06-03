@@ -13,6 +13,7 @@ This is the website of Deryk Makgill. It's a new site, not an update of my old b
 
 ### Latest Updates...
 
+- 2022-05-30: [Static Website CMS Through GitHub + Jekyll](/)
 - 2022-05-30: [HATETRIS](/)
 - 2022-04-25: [Solving Tetris in C](/)
 - 2022-03-29: [Control](/)
