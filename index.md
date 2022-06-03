@@ -9,6 +9,7 @@ This is the website of Deryk Makgill. It's a new site, not an update of my old b
 - [Essays](/)
 - [Fiction](/)
 - [Meta](/)
+- [Mailing List](/)
 
 ### Latest Updates...
 
