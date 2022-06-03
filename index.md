@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Before reaching out to me, be aware that I get many emails, and my typical response time can be days or weeks. Please keep that in mind before sending me a question that could be answered with a web search, reading a man page, asking an on-topic IRC channel, etc. I do want to read your email, though, so if in doubt, send it!
