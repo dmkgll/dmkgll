@@ -2,9 +2,7 @@
 layout: default
 ---
 
-### About ...
-
-This Is The Website of Gwern Branwen. I write about psychology, statistics, and technology. I am best known for work on the ⁠darknet markets & ⁠Bitcoin⁠, blinded self-experiments⁠, dual n-back & spaced repetition⁠, and anime neural networks⁠.
+This Is The Website of Deryk Makgill. I write about Bitcoin mostly, but other stuff as well.
 
 ### Categories...
 
