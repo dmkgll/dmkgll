@@ -13,7 +13,7 @@ layout: default
 - 2022-05-30: [HATETRIS](/)
 - 2022-04-25: [Solving Tetris in C](/)
 - 2022-03-29: [Control](/)
-- 2022-02-11: [How to play Absurdle's challenge mode]v
+- 2022-02-11: [How to play Absurdle's challenge mode](/)
 - 2022-01-26: ["Lena" isn't about uploading](/)
 - 2022-01-22: [Absurdle FAQ](/)
 - 2022-01-10: [Absurdle](/)
