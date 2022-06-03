@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is the website of Deryk Makgill. It's a new site, not an update of my old blog, and I plan to write and do research here about Bitcoin (and probably a lot of other things...)
+This is the website of Deryk Makgill. It's a new site, not an update of my old blog, and I plan to write and do research here about Bitcoin (and probably a lot of other things...).
 
 ### Categories...
 
