@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <header><h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1></header>
+    <header>{% include breadcrumbs.html %}<h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1></header>
     <article>
       {{content}}
     </article>
