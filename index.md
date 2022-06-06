@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# DM's Blog
-
 ### Categories...
 
 - [Essays](/)
