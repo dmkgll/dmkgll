@@ -40,7 +40,7 @@ comments:
   moderation: false
 
   # When allowedOrigins is defined, only requests sent from one of the listed domains will be accepted.
-  allowedOrigins: ["dmkgll.github.io"]
+  allowedOrigins: ["localhost", "dmkgll.github.io"]
 
   # (*) REQUIRED
   #
