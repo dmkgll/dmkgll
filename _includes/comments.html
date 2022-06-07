@@ -3,7 +3,7 @@
   {% if site.data.comments[page.slug] %}
   <div>
    <h3 class="comment">Leave a Comment ({{ site.data.comments[page.slug] | size }})</h3> 
-    <p class="comment">Comments can take up to one minute to appear. Don't double post! Here's the <a href="/">moderation policy.</a> If this is your first time, please read it before you post.</p>
+    <p class="comment">Comments can take up to one minute to appear and the button can load slowly. Don't click twice or you will double post! Here's the <a href="/">moderation policy.</a> If this is your first time, please read it before you post.</p>
     {% include comment-list.html %}
   </div>
   {% endif %}
