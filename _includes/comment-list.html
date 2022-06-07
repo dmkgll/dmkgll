@@ -3,11 +3,10 @@
 {% assign sorted_comments = comments | sort: 'date' %}
 {% for comment in sorted_comments %}
 <div class="comment">
-    <h3 class="{{comment.admin}}">{{comment.name}}</h3>
     <time class="post-meta dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ comment.date | date:"%H:%M - %b %-d, %Y, %Y" }}
-    </time>
+        {{ comment.date | date:"%b %-d, %Y %H:%M" }}
+    </time> by <h3 class="{{comment.admin}}">{{comment.name}};]:</h3>
     <p>{{comment.message | strip_html | markdownify }}</p>
     <div class="comment-reply">
         <input id="reply-{{ comment._id}}" type="checkbox" class="checkbox">
