@@ -3,7 +3,7 @@
 {% assign sorted_comments = comments | sort: 'date' %}
 {% for comment in sorted_comments %}
 <div class="comment">
-    <h3>{{comment.name}}</h3>
+    <h3 class="{{comment.admin}}>{{comment.name}}</h3>
     <time class="post-meta dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ comment.date | date:"%H:%M - %b %-d, %Y, %Y" }}
