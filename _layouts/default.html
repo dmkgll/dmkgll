@@ -7,6 +7,10 @@
     <header>{% include breadcrumbs.html %}<h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1></header>
     <article>
       {{content}}
+
+
+{% include comments.html %}
+
     </article>
     {% include footer.html %}
   </body>
