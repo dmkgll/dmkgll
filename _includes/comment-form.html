@@ -6,7 +6,11 @@
     value="{{ page.url | absolute_url }}"
   />
   <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
-
+  <input
+    name="fields[parent_id]"
+    type="hidden"
+    value="{{ include.parent_id }}"
+  />
   <textarea
     class="comment-message"
     name="fields[message]"
