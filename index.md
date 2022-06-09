@@ -10,6 +10,8 @@ title: dmkgll
 
 ### Blog 
 
+<ul class="posts">
 {% for post in site.posts %}
-* [ {{ post.title }} ]({{ post.url }})
+<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
