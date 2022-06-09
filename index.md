@@ -3,6 +3,10 @@ layout: home
 title: dmkgll
 ---
 
+<style>ul {
+    padding-inline-start: 0;
+    list-style: none;
+}
 ### Pages
 
 - [Meta](/)
@@ -15,3 +19,9 @@ title: dmkgll
 <li><span>{{ post.date | date_to_string }}:</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
  {% endfor %}
 </ul>
+ 
+ ### Meta
+ 
+ - Twitter: [@dmkgll](https://twitter.com/dmkgll)
+ - GitHub: [@dmkgll](https://github.com/dmkgll)
+ - Email: [dmkgll@protonmail.ch](/)
