@@ -13,7 +13,7 @@ title: dmkgll
 - [Meta](/)
 - [Mailing List](/)
 
-### Blog 
+### Latest updates
 
 <ul class="posts">
 {% for post in site.posts %}
