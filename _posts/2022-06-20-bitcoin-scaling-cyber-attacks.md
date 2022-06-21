@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyber Attacks Against Scaling Bitcoin
+title: Cyber attacks against scaling Bitcoin
 permalink: bca
 ---
 
