@@ -59,4 +59,6 @@ I spent way too much time trying to figure out what I wanted to build and write 
 
 Hopefully the mature, final iteration of a long process. The name is just my first initial and my last name without vowells. I added the 'K' because I prefer the original "Makgill" spelling to "Magill."
 
+### Long site
 
+I love Gwern Branwen's "[long site](https://www.gwern.net/About)." The idea is that you "work on projects that are too big to work on normally or too tedious." To that end, a lot of the pages and posts here will be evolving rather than static. Sometimes things will be published incomplete or in draft form and completed over time.
