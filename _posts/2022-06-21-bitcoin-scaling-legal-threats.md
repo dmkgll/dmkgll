@@ -4,7 +4,7 @@ title: Legal threats against big-block Bitcoin
 permalink: bblt
 ---
 
-This research is necessarily incomplete and also can't display all the times people indirectly threatened lawsuits through moral or financial support for the people pushing them. 
+This research is necessarily incomplete and also can't display all the times people indirectly threatened lawsuits through moral or financial support for the people pushing them. There are also things that were deleted, deliberately in an effort to rewrite history, or accidentally through account suspension, etc.
 
 | Date              | Target                     | Attacker          | Affiliations              | Source                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------- | -------------------------- | ----------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
