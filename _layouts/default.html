@@ -5,6 +5,20 @@
     <header>{% include breadcrumbs.html %}<h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1><div class="page-date">{{ page.date | date: "%Y-%m-%d" }} by dmkgll</div></header>
     <article>
       {{content}}
+      
+      <div class="page__ancestors" dir="ltr">
+						 
+							<div class="page__ancestor">
+								<a href="/blog">
+									Back to Blog								</a>
+							</div>
+						 
+							<div class="page__ancestor">
+								<a href="/">
+									Back to dmkgll							</a>
+							</div>
+						 
+					</div>
 
     </article>
     
