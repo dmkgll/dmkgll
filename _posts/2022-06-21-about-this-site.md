@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About this site
+permalink: as
 ---
 
 ### History of this site
@@ -21,6 +22,10 @@ A blog set up by my friend Dale and I when we were both getting heavily into phi
 #### "Egode" era
 
 The title comes from Ayn Rand's "Anthem." Egode is "ego + ode." Another blogspot blog set up by friends and I. I wrote a few articles on philosophy topics that are both cringe to look back on, and occasionally awe inspiring. I was pretty advanced for my age.
+
+#### Graduation photos era
+
+I was traveling for the summer and my parents wanted to send me photos from my high school graduation, so my dad thought it would be funny to host them all on derekmagill.com. A bit of light mockery from friends here and there was the worst I suffered.
 
 #### Country Club Anarchist era
 
