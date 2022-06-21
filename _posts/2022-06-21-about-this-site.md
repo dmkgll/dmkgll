@@ -4,6 +4,10 @@ title: About this site
 permalink: as
 ---
 
+### Site index
+
+See the [Archive](/) page for posts, pages, etc.
+
 ### History of this site
 
 #### Pre-online days
