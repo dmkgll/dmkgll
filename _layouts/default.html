@@ -2,7 +2,7 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <header>{% include breadcrumbs.html %}<h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1><div class="page-date">{{page.date}} by dmkgll</div></header>
+    <header>{% include breadcrumbs.html %}<h1 class="header">{{page.title}} <a href="/rss.php"><img alt="feed" src="https://qntm.org/page/feed.png"></a></h1><div class="page-date">{{ post.date | date: "%Y-%m-%d" }} by dmkgll</div></header>
     <article>
       {{content}}
 
