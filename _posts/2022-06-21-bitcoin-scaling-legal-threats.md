@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legal Threats against big-block Bitcoin
+title: Legal threats against big-block Bitcoin
 permalink: bblt
 ---
 
