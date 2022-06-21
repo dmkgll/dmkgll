@@ -4,6 +4,8 @@ title: Legal threats against big-block Bitcoin
 permalink: bblt
 ---
 
+This research is necessarily incomplete and also can't display all the times people indirectly threatened lawsuits through moral or financial support for the people pushing them. 
+
 | Date              | Target                     | Attacker          | Affiliations              | Source                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------- | -------------------------- | ----------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ??? 2015    | Bitcoin XT                 | Pierre Rochard         | Kraken, Nakamoto Institute               | [](https://twitter.com/JackGavigan/status/698503931312394240)[@pierre_rochard @jgarzik @adam3us @twobitidiot Hey, you're the one who detailed what the lawsuit would be about:](https://twitter.com/JackGavigan/status/698503931312394240)    
