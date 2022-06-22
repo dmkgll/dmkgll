@@ -4,6 +4,8 @@ title: On blog design
 permalink: obd
 ---
 
+Keeo in mind that these are really notes for myself. I'm not saying they are exhaustive or exclusive. Do what you want.
+
 ### Content
 
 "The drama belongs in what you say, not the typeface". Ogilvy, D (1983), Ogilvy on Advertising.
