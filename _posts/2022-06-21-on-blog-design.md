@@ -30,7 +30,7 @@ See [Paul Graham's](http://www.paulgraham.com/gfaq.html) RAQ. "The aim of web de
 
 ### Short urls
 
-URLS should be short, memorable, and follow a predictable schema. They should NOT be pumped full of keywords and run 10 words and dashes long. dmkgll.com/about is much better than dmkgll.com/2022/12/05/about-dmkgll.com.
+URLS should be short, memorable, and follow a predictable schema. They should NOT be pumped full of keywords and run 10 words and dashes long. <code>dmkgll.com/about</code> is much better than <code>dmkgll.com/2022/12/05/about-dmkgll.com</code>.
 
 ### Link resilience
 
