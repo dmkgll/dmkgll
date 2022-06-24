@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KYC critical masss in Bitcoin
+title: KYC critical mass in Bitcoin
 permalink: kyccmbtc
 ---
 
