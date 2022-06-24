@@ -9,8 +9,7 @@ for privacy and freedom to turn Bitcoin against its
 original purpose as e-cash for micropayments[1] into an
 investment asset purchased on exchanges.
 
-Here’s how Bitcoin was intended to work by Satoshi
-Nakamoto. 
+Here’s how Satoshi Nakamoto wanted people to get Bitcoin.
 
 a. Miners mine Bitcoin.
 
@@ -29,7 +28,7 @@ they want. Because most payments would be small, they
 wouldn't even fall under existing AML/KYC legislation
 requirments.
 
-Here’s how Bitcoin ended up working though because
+Here’s how people get Bitcoin now because
 short-sighted devs and exchange operators decided that
 Bitcoin didn't need to be useful as cash anymore and ought
 to be treated like an investment instead.
