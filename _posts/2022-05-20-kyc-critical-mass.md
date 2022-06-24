@@ -45,7 +45,6 @@ God-willing, all the exchanges will go "poof" and disappear, so that
 people will stop entering the Bitcoin economy through regulated, KYC
 channels. 
 
-The point is that the longtime viability of your privacy strategy on
-Bitcoin depends at least in part upon forces largely outside of your
-control. KYC affects us all.
+The point is that the longterm viability of your privacy strategy on
+Bitcoin depends at least in part upon the privacy of other people. KYC affects us all.
 
