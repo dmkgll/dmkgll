@@ -43,9 +43,10 @@ they can censor them.
 
 This might even be done socially, with the state playing only a marginal role. It strikes me that we are already
 most of the way there. If people are conditioned to believe that
-private coins=criminal coins, they will refuse to receive private coins or
+private coins=criminal coins, or private coins=racist coins, or private coins="anything I don't like", they will refuse to receive private coins, punish  or ostracise
+people who did receive private coins, or
 actively participate in their identification when its socially advantageous to do so,
-much like doxxing+cancellation works today.
+much like doxxing+cancellation works today. 
 
 Obviously there are exceptions to this or ways to reduce its effect. And maybe off-chain
 transactions will solve a lot of this concern. Maybe improvements to
