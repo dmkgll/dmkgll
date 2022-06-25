@@ -9,22 +9,22 @@ Speculation. KYC "critical mass" is when the economic majority—maybe
 think this is not a problem because the privacy malpractice of others
 is not your concern. That is not true.
 
-What might happen once KYC critical mass is reached is that Bitcoin
+Two things might happen. The first is that the reduced privacy set will make it
+easier for chainanalysis to identify people who aren't KYCd. 
+
+The next and much scarier thing is that Bitcoin
 addresses that have not been KYCd will be tracked, traced, marked,
 even blacklisted. Governments will get away with this
 because the economic majority who are already KYCd will not be
 affected by it and may even want people to be known like they are.
 
 What began as something good—the fact that you properly managed your
-on-chain privacy— turns into a kind of Scarlet Letter attatched to
+on-chain privacy—turns into a kind of Scarlet Letter attatched to
 your coins. It's an odd thought—that doing things to make your coins
-more fungible can literally be used to make them less fungible—but it makes sense. If you're
-the only neighbor in your neighorhood with a large privacy fence in your
-backyard, you stand out and people can "mark" you as the weird guy
-with the privacy fence. The HOA can even vote
-to make you take down that fence and since you're the only person affected
-by that ruling, you're unlikely to have allies. 
-
+more fungible can literally be used to make them less fungible—but it makes sense. You just reverse your thinking.
+People typically think of KYC as something that reduces fungibility because it does. But governments
+can just as easily declare the opposite and say that *only* KYC coins are legally fungible. The others
+are colored, marked.
 
 "So? Who is going to stop me from sending my funds peer-to-peer?" Good
  question. The government will. They can do this in several ways. 
@@ -45,7 +45,7 @@ they can censor them.
 This might even be done socially, with the State playing only a marginal role. It strikes me that we are already
 most of the way there. If people are conditioned to believe that
 private coins=criminal coins, or private coins=racist coins, or private coins="anything I don't like", they will refuse to receive private coins, punish  or ostracise
-people who did receive private coins (its on-chain literally *forever*), or
+people who did receive private coins (it is on-chain literally *forever*), or
 actively participate in their identification when its socially advantageous to do so,
 much like doxxing+cancellation works today. 
 
