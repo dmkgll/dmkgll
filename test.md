@@ -60,18 +60,12 @@ Clock</b></a>: a giant clock that will keep correct time for 10KY, ticking
 once a year.  Because they can, and because nobody builds to last.  I
 first read this page in 1995:
 
-<blockquote><i>
-
- When I was a kid, three decades ago, the future was a long way so was the turn of the millennium. Dates like 1984 and 2001
+<blockquote><i>When I was a kid, three decades ago, the future was a long way so was the turn of the millennium. Dates like 1984 and 2001
 were comfortably remote.  But the funny thing is, that in all these years, the future that people think about has not moved past the
- millennium.  It's as if the future has been shrinking one year, per
- and 2030 is too far away to even think about.  Why bother making plans when everything will change?
+ millennium.  It's as if the future has been shrinking one year, per and 2030 is too far away to even think about.  Why bother making plans when everything will change?</i></blockquote>  
 
-</i></blockquote>  
-
-That really rang true: even four or five years before the
-millennium, the catch-phrase of the talking heads on TV was still by
-the year 2000...''  Are we in the future yet?  Have we passed that
+That really rang true: even four or five years before the millennium, the catch-phrase of the talking heads on TV was still by
+the year 2000...  Are we in the future yet?  Have we passed that
 asymptote?  Well, they've built the first version of the 
 clock, and are working on a larger one...
 
@@ -83,14 +77,11 @@ rants ever,
 <b>The Past Sucks</b></a> by Douglas Coupland:
 
 <blockquote><i>
-
 Say to these annoying people, Hey kids - the past wasn't like a
  trip to Waikiki: the only sure thing about the past is some
 ghastly disease, carnage, toil that defies all description,
  starvation, and boredom of a sort that makes waiting in line at
-the Department of Motor Vehicles seem like Disneyland on heroin.
-
-</i></blockquote>  
+the Department of Motor Vehicles seem like Disneyland on heroin.</i></blockquote>  
 
 From the folks who brought you the clock,
 <a href="https://web.archive.org/web/20030105011347/http%3A//www.rosettaproject.org/live/disk"><b>The Rosetta
