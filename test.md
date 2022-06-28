@@ -87,11 +87,11 @@ rants ever,
 
 <blockquote><i>
 
-     Say to these annoying people, Hey kids - the past wasn't like a
-     trip to Waikiki: the only sure thing about the past is some
-     ghastly disease, carnage, toil that defies all description,
-     starvation, and boredom of a sort that makes waiting in line at
-     the Department of Motor Vehicles seem like Disneyland on heroin.
+Say to these annoying people, Hey kids - the past wasn't like a
+ trip to Waikiki: the only sure thing about the past is some
+ghastly disease, carnage, toil that defies all description,
+ starvation, and boredom of a sort that makes waiting in line at
+the Department of Motor Vehicles seem like Disneyland on heroin.
 
 </i></blockquote>  
 
