@@ -42,8 +42,6 @@ communicate with someone who may know nothing of your language or
 iconography?  Who might assume that your spooky-faces are there because
 you are hiding treasure?
 
-<h2>open source allegiances</h2>
-
 There's more about this in Gregory Benford's 
 <a href="https://web.archive.org/web/20011017183657/http%3A//www.physics.uci.edu/~silverma/benford.html"><b>Deep
 Time</b></a>: he was a part of the group brainstorming about these ideas,
