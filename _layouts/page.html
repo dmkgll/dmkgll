@@ -1,14 +1,14 @@
 <html><head><style>p {
     margin: 0.5em 0.5em 1em 1em;
 }</style>
- <title>long now</title>
+ <title>{{page.title}}</title>
  <meta name="viewport" content="width=device-width">
  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <style>body{background: #D8D2CB;
     font-family: sans-serif;
   letter-spacing: -.1px;}</style>
 <body>
-
+<article>
 <h1>
   {{ page.title}}
  </font><font size="-1">
@@ -21,7 +21,7 @@
   {{ content}}
     
         {% include comments.html %}
-  
+    </article>
 <hr><p>
 </p><footer class="priv">
 <p>
