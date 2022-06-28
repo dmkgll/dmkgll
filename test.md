@@ -60,7 +60,7 @@ On a less depressing topic, there's the
 <a href="https://web.archive.org/web/20010809171317/http%3A//www.longnow.org/10kclock/clkPurpose.htm"><b>10,000 Year
 Clock</b></a>: a giant clock that will keep correct time for 10KY, ticking
 once a year.  Because they can, and because nobody builds to last.  I
-first read this page in 1995:
+first read this page in 1995
 
 <blockquote><i>When I was a kid, three decades ago, the future was a long way so was the turn of the millennium. Dates like 1984 and 2001
 were comfortably remote.  But the funny thing is, that in all these years, the future that people think about has not moved past the
@@ -74,9 +74,6 @@ clock, and are working on a larger one...
 And I think this is the third time I've linked to this one in the
 last couple of months, but it's been on my mind: one of my favorite
 rants ever, 
-
-<a href="https://web.archive.org/web/19970108031014/www.coupland.com/story7.htm">
-<b>The Past Sucks</b></a> by Douglas Coupland:
 
 <blockquote><i>
 Say to these annoying people, Hey kids - the past wasn't like a
