@@ -62,13 +62,10 @@ first read this page in 1995:
 
 <blockquote><i>
 
- When I was a kid, three decades ago, the future was a long way <nobr>off
---</nobr> so was the turn of the millennium. Dates like 1984 and 2001
+ When I was a kid, three decades ago, the future was a long way so was the turn of the millennium. Dates like 1984 and 2001
 were comfortably remote.  But the funny thing is, that in all these years, the future that people think about has not moved past the
  millennium.  It's as if the future has been shrinking one year, per
-     year, for my entire life.  2005 is still too far away to plan for
-     and 2030 is too far away to even think about.  Why bother making
-     plans when everything will change?
+ and 2030 is too far away to even think about.  Why bother making plans when everything will change?
 
 </i></blockquote>  
 
