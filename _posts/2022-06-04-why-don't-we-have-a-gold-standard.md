@@ -4,9 +4,11 @@ title: Why don't we have a gold standard?
 year: 2022
 ---
 
-> #Bitcoin fixes the ancient plague of paper money. - [Robert Breedlove](https://twitter.com/Breedlove22/status/1544031698295263232)
+*#Bitcoin fixes the ancient plague of paper money.* - [Robert Breedlove](https://twitter.com/Breedlove22/status/1544031698295263232)
 
 Why do we use paper money? The simple and inconvenient answer is that we use paper money because we tolerate it.
+
+
 
 This answer is inconvenient because it suggests 
 
