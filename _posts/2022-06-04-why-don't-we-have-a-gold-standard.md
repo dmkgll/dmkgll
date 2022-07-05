@@ -4,8 +4,8 @@ title: Why don't we have a gold standard?
 year: 2022
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">America&#39;s forefathers knew paper money was a catastrophic idea...<br><br>Thomas Jefferson is quoted as saying: “Paper is poverty, it is only the ghost of money, and not the money itself.”<a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> fixes the ancient plague of paper money.</p>&mdash; Robert ₿reedlove (@Breedlove22) <a href="https://twitter.com/Breedlove22/status/1544031698295263232?ref_src=twsrc%5Etfw">July 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+> #Bitcoin fixes the ancient plague of paper money. - [Robert Breedlove](https://twitter.com/Breedlove22/status/1544031698295263232)
+>
 I used to think we don't have a gold standard anymore because gold failed. I thought Bitcoin would succeed where gold had failed
 because Satoshi had programmed Bitcoin to succeed where gold had failed.
 
