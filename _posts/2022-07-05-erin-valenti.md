@@ -15,7 +15,7 @@ The strange circumstances of Erin's death have been fuel for conspiracy theorist
 murdered because she discovered that we really are living in a digital simulation. r/conspiracy on Reddit has been a popular place of discussion and a 
 few people have pointed to the professional development seminar she supposedly attended just days before her death as being worthy of investigation. 
 
-For my own part, I don't believe we live in the Matrix or that Erin had some dangerous knowledge she was about to break to the world. But I think this program she attended, Ontocore, ought to have gotten a lot more scrutiny.
+For my own part, I don't believe we live in the Matrix or that Erin had some dangerous knowledge she was about to break to the world. But I think this program she attended, Ontocore, ought to have gotten a lot more scrutiny. For a long time, I've hoped that someone who had attended one of these seminars would see Erin Valenti's story and write about their own story. I didn't want to be the one to do it because I don't want to pedal conspiracies or put myself at risk for defamation. Nobody has come forward though or made the relevant connections, so I decided I would have to.
 
 ## Ontocore
 
