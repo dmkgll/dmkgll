@@ -1,6 +1,5 @@
 ---
 layout: page
-title: dmkgll
 ---
 
 <style>ul {
