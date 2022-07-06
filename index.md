@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: dmkgll
 ---
 
@@ -7,13 +7,6 @@ title: dmkgll
     padding-inline-start: 0;
     list-style: none;
 }</style>
-
-### Pages
-
-- [Meta](/)
-- [Mailing List](/)
-
-### Latest updates
 
 <ul class="posts">
 {% for post in site.posts %}
