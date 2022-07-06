@@ -27,3 +27,4 @@ Around 2016 or 2017, we got invited to this professional development seminar in 
 
 Apparently we were sent some material to read and review before the seminar but I never saw it (or I probably woudn't have gone). I flew to Phoenix.
 
+The conference venue was beautiful. I don't remember the resort but it was high end and it felt like the entire place was booked out for us.
