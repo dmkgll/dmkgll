@@ -19,7 +19,7 @@ d  d m m m k k  g g l l
                 ggg     
 ```
 
-<p><a href="self"><q style="FONT-SIZE: 50PX;"><i>"You don't even have a self!"</i></q></a></p>
+<p><a href="self"><span style="FONT-SIZE: 50PX;"><i>"You don't even have a self!"</i></span></a></p>
 
 ---
 
