@@ -36,6 +36,6 @@ This site is divided into the following top-level categories:
 		<li><a href="misc.html">Miscellaneous</a></li>
 	</ul>
 ---
-<h1><a> href="/">Join the public mailing list</a></h1>
+<h1><a href="/">Join the public mailing list</a></h1>
 
 As an alternative to, or supplement for, a traditional newsletter, and against my better judgement maybe, I started a public mailing list. That means anyone on the list can reply and everyone will see it.
