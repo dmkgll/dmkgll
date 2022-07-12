@@ -18,4 +18,20 @@ d  d m m m k k  g g l l
                   g     
                 ggg     
 ```
+
+<p><a href="self"><q style="FONT-SIZE: 50PX;"><i>"You don't even have a self!"</i></q></a></p>
+
 ---
+
+This site is divided into the following top-level categories:
+
+<ul style="FONT-SIZE: 25PX;">
+		<li><a href="comp.html">Computers, Technology, and Internet</a></li>
+		<li><a href="gaming.html">Video Games</a></li>
+		<li><a href="tv.html">Television</a></li>
+		<li><a href="dd4c.html"><cite>Doki Doki 4chan Club!</cite></a></li>
+		<li><a href="desuroom-revival.html">Desuroom Revival</a></li>
+		<li><a href="links.html">Links</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="misc.html">Miscellaneous</a></li>
+	</ul>
