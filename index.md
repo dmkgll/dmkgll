@@ -35,3 +35,15 @@ This site is divided into the following top-level categories:
 		<li><a href="about.html">About</a></li>
 		<li><a href="misc.html">Miscellaneous</a></li>
 	</ul>
+---
+
+<p>
+		<a href="https://validator.w3.org/check?uri=https://www.lolwut.info/index.html"><img src="https://anlucas.neocities.org/anow.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
+		<a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx"><img src="https://anlucas.neocities.org/lol.gif" width="88" height="31" alt="Best viewed with Internet Explorer" title="Best viewed with Internet Explorer"></a>
+		<a href="https://www.microsoft.com/en-us/windows"><img src="/images/made-with-windows.gif" width="88" height="31" alt="Proudly made on Microsoft Windows" title="Proudly made on Microsoft Windows"></a>
+		<a href="https://www.eff.org/pages/blue-ribbon-campaign"><img src="/images/free-speech-forever.gif" width="88" height="31" alt="Support freedom of speech" title="Support freedom of speech"></a>
+		<a href="https://services.kolyma.org/hosting"><img src="/images/powered-by-kolyma.png" width="90" height="33" alt="Hosted on KolymaNET" title="Hosted on KolymaNET"></a>
+		<a href="https://www.desuroom.cf"><img src="/images/desuroom-revival.png" width="88" height="31" alt="Desuroom Revival -- Harbl Hotel 24/7" title="Desuroom Revival -- Harbl Hotel 24/7"></a>
+		<a href="https://www.heyuri.net"><img src="/images/heyuri.gif" width="83" height="31" alt="Heyuri: It's the place to be" title="Heyuri: It's the place to be"></a>
+		<a href="https://archive.org/details/adobe-flash-player-32.0.0.465-retail-debug"><img src="/images/get-flash-player.gif" width="88" height="31" alt="Adobe Flash will never die" title="Adobe Flash will never die"></a>
+	</p>
