@@ -26,16 +26,12 @@ d  d m m m k k  g g l l
 This site is divided into the following top-level categories:
 
 <ul style="FONT-SIZE: 25PX;">
-		<li><a href="comp.html">Computers, Technology, and Internet</a></li>
-		<li><a href="gaming.html">Video Games</a></li>
+		<li><a href="comp.html">Websites</a></li>
+		<li><a href="gaming.html">Bitcoin</a></li>
 		<li><a href="tv.html">Television</a></li>
 		<li><a href="dd4c.html"><cite>Doki Doki 4chan Club!</cite></a></li>
-		<li><a href="desuroom-revival.html">Desuroom Revival</a></li>
+		<li><a href="desuroom-revival.html">Mailing List</a></li>
 		<li><a href="links.html">Links</a></li>
 		<li><a href="about.html">About</a></li>
 		<li><a href="misc.html">Miscellaneous</a></li>
 	</ul>
----
-<p><a href="self"><span style="FONT-SIZE: 50PX;"><i>Join public mailing list</i></span></a></p>
-
-As an alternative to, or supplement for, a traditional newsletter, and against my better judgement maybe, I started a public mailing list. That means anyone on the list can reply and everyone will see it.
