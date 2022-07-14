@@ -49,3 +49,5 @@ This site is divided into the following top-level categories:
 		<a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx"><img src="https://anlucas.neocities.org/lol.gif" width="88" height="31" alt="Best viewed with Internet Explorer" title="Best viewed with Internet Explorer"></a>
 		<a href="https://512kb.club"><img src="https://512kb.club/assets/images/green-team.svg" /></a>
 	</p>
+
+*This page last updated 13 July 2022*
