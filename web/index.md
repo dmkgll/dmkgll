@@ -18,7 +18,9 @@ This page is everything I've written or made related to websites, blogging, stat
 - [On Web Design](/)
 - [Against 'prefers-color-scheme'](/)
 
-#### External Links
+## External Links
+
+#### Bookmarks
 
 A collection of interesting bookmarks in no particular order.
 
@@ -31,5 +33,10 @@ A collection of interesting bookmarks in no particular order.
 
 #### Webring/Blogroll
 
-People I follow, know in person, or just think are interesting.
+People or projects I follow, know in person, or just think are interesting.
+
+- [Isaac Morehouse](/)
+
+
+#### Webrings
 
