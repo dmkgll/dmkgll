@@ -24,8 +24,8 @@ This site is divided into the following top-level categories:
 <ul style="FONT-SIZE: 25PX;">
 		<li><a href="comp.html">Websites</a></li>
 		<li><a href="gaming.html">Bitcoin</a></li>
-		<li><a href="tv.html">Television</a></li>
-		<li><a href="dd4c.html"><cite>Doki Doki 4chan Club!</cite></a></li>
+		<li><a href="tv.html">Everything is bullshit</a></li>
+		<li><a href="dd4c.html">Anarchy</a></li>
 		<li><a href="desuroom-revival.html">Mailing List</a></li>
 		<li><a href="links.html">Links</a></li>
 		<li><a href="about.html">About</a></li>
