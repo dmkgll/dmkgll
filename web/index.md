@@ -26,3 +26,4 @@ A collection of interesting bookmarks in no particular order.
 - [Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
 - [Personal Sit.es](https://personalsit.es/)
 - [Brutalist Websites](https://brutalistwebsites.com/)
+- [Solar.LowtechMagazine.com](https://solar.lowtechmagazine.com/)
