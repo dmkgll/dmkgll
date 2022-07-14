@@ -38,6 +38,8 @@ People or projects I follow, know in person, or just think are interesting.
 * [Isaac Morehouse](/) interesting commentary on a ton of different things. 
    - [The Direction of Our Eyes](https://isaacmorehouse.com/2022/05/02/the-direction-of-our-eyes/)
 * [Gwern Branwen](/)
+* [Chuck Grimmett](/) a real polymath. Seems to know a bit of everything and always working on cool projects.
+* [Steve Patterson](/) one of the smartest guys I know. I'm not knowledgable enough to tell whether or not he's crazy.
 
 #### Webrings
 
