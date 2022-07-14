@@ -22,7 +22,7 @@ and do other stuff here as well. There's no design. "The drama is in what you sa
 This site is divided into the following top-level categories:
 
 <ul style="FONT-SIZE: 25PX;">
-		<li><a href="/web">Websites, Web Design, Blogging</a></li>
+		<li><a href="/web">Websites, Web Design, Blogging, Internet</a></li>
 		<li><a href="gaming.html">Bitcoin</a></li>
 		<li><a href="tv.html">Everything is bullshit</a></li>
 		<li><a href="dd4c.html">Fiction</a></li>
