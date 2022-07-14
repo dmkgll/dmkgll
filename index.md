@@ -2,6 +2,8 @@
 layout: index
 ---
 
+<style>img{max-width:100%;}</style>
+
 # d.mkgll.com is my new site
 
 It has been a while. If you're coming from my old site, welcome! If you're new...welcome! No plans or announcements other than that I intend to write
