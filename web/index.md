@@ -19,6 +19,8 @@ This page is everything I've written or made related to websites, blogging, stat
 
 #### External Links
 
+A collection of interesting bookmarks in no particular order.
+
 - [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 - [Against an Increasingly User-Hostile Web](https://neustadt.fr/essays/against-a-user-hostile-web/)
 - [Personal Sit.es](https://personalsit.es/)
