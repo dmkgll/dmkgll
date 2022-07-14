@@ -11,7 +11,9 @@ and do other stuff here as well. There's no design. "The drama is in what you sa
 
 <p class="img"><img alt="image" loading="lazy" src="/dmkgll-trump.png"></p>
 
-<p><a href="self"><span style="FONT-SIZE: 50PX;"><i>"You don't even have a self!"</i></span></a></p>
+["According to the Internet, Deryk occupies every corner of the Nolan chart."](/) - friend
+
+<!--<p><a href="self"><span style="FONT-SIZE: 50PX;"><i>"You don't even have a self!"</i></span></a></p>-->
 
 ---
 
