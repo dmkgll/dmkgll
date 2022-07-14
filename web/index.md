@@ -4,7 +4,7 @@ title: Websites
 permalink: web
 ---
 
-# Websites
+# Websites, Web Design, Blogging, Internet
 
 This page is everything I've written or made related to websites, blogging, static site generators, etc etc.
 
