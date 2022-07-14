@@ -36,7 +36,7 @@ A collection of interesting bookmarks in no particular order.
 People or projects I follow, know in person, or just think are interesting.
 
 - [Isaac Morehouse](/)
-
+- [Gwern Branwen](/)
 
 #### Webrings
 
