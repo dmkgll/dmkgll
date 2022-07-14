@@ -27,3 +27,4 @@ A collection of interesting bookmarks in no particular order.
 - [Personal Sit.es](https://personalsit.es/)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Solar.LowtechMagazine.com](https://solar.lowtechmagazine.com/)
+- [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
