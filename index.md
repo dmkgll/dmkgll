@@ -39,6 +39,7 @@ This site is divided into the following top-level categories:
 
 ## Changelog
 
+- **13 July 2022:** Added changelog.
 - **13 July 2022:** Added microbanners in footer area.
 - **13 July 2022:** Added [index.md](/) page to launch new site.
 
