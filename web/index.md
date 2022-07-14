@@ -8,6 +8,8 @@ permalink: web
 
 This page is everything I've written or made related to websites, blogging, static site generators, etc etc.
 
+## Writing 
+
 #### Static Site Generators
 
 - [Start a personal website!](/)<br>Open offer to send you a book of your choice if you start a static HTML site and create or write something on it.
