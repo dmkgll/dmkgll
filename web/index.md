@@ -35,8 +35,9 @@ A collection of interesting bookmarks in no particular order.
 
 People or projects I follow, know in person, or just think are interesting.
 
-- [Isaac Morehouse](/)
-- [Gwern Branwen](/)
+* [Isaac Morehouse](/)
+   - [The Direction of our eyes](https://isaacmorehouse.com/2022/05/02/the-direction-of-our-eyes/)
+* [Gwern Branwen](/)
 
 #### Webrings
 
