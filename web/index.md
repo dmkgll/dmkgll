@@ -11,6 +11,11 @@ This page is everything I've written or made related to websites, blogging, stat
 #### Static Site Generators
 
 - [Start a personal website!](/)<br>Open offer to send you a book of your choice if you start a static HTML site and create or write something on it.
+- [Guide to blogging for free with Github Pages and static HTML](/)
+
+#### Design
+
+- 
 
 #### External Links
 
