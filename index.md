@@ -7,8 +7,8 @@ layout: index
     padding: 0;
 }</style>
 
-- [Craig Wright's *Twelve Days of Christmas*](/csw12) 2021
-- [Hayek v. Keynes](/hvk) 2014
+- [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
+- [Hayek v. Keynes](/hvk) <small>2014</small>
 
 <p></p>
 
