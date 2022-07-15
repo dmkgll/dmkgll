@@ -10,6 +10,7 @@ layout: index
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
 - [Voice & Exit](/v&e) <small>2016</small>
 - [Hayek v. Keynes](/hvk) <small>2014</small>
+- [We Were Promised Laptops](/wltops) <small>2012</small>
 
 <p></p>
 
