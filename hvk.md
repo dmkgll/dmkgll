@@ -4,6 +4,11 @@ layout: index
 
 <style>body{max-width:500px;margin:auto;padding:10px;text-align:center;}h1,h5{text-align:center;}img{max-width:100%;}</style>
 
+<p><a href="/">← back to dmkgll homepage</a></p>
+
+---
+
+
 # *Hayek v. Keynes,* 2014
 
 ![Hayek v. Keynes](/assets/hayek-versus-keynes-2014.png)
