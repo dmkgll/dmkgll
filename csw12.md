@@ -22,4 +22,6 @@ Two court orders and <br>
 A choice between death <br>
 Or Thai jail!<br>
 
-##### a parody song
+##### a parody song published in this book
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The physical version of our groundbreaking NFT on <a href="https://twitter.com/canonicxyz?ref_src=twsrc%5Etfw">@canonicxyz</a> is hot off the printer.<br><br>Exquisite gold embossed cover artwork by <a href="https://twitter.com/SatoshiDoodles?ref_src=twsrc%5Etfw">@SatoshiDoodles</a> <a href="https://t.co/Lo1y9N1oHB">pic.twitter.com/Lo1y9N1oHB</a></p>&mdash; The Soon Times (@TheSoonTimes1) <a href="https://twitter.com/TheSoonTimes1/status/1498370791154630658?ref_src=twsrc%5Etfw">February 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
