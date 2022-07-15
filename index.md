@@ -2,7 +2,10 @@
 layout: index
 ---
 
-<style>img{max-width:100%;}</style>
+<style>img{max-width:100%;}ul{
+    list-style: none;
+    padding: 0;
+}</style>
 
 #### dmkgll
 
