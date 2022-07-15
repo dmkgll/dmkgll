@@ -32,6 +32,7 @@ A collection of interesting bookmarks in no particular order.
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Solar.LowtechMagazine.com](https://solar.lowtechmagazine.com/)
 - [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+- [Neocities](https://neocities.org/)
 
 ### Blogroll
 
@@ -52,6 +53,7 @@ A collection of interesting bookmarks in no particular order.
 * [Coronacircus](/)
 * [Countermarkets](/)
 * [Zero HP Lovecraft](/) interesting short story author.
+* [Seth for Privacy](https://sethforprivacy.com/) good writings on crypto and online privacy
 
 ### Webrings
 
