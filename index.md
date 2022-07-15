@@ -12,18 +12,14 @@ layout: index
 - [Twitter](https://twitter.com/dmkgll)
 - [Email](/)
 
-<p class="img" style="
-    background: red;
-    max-width: 300px;
-"><img alt="image" loading="lazy" src="/dmkgll-trump.png" style="
-    background: blue;
-    max-width: 300px;
-    background-blend-mode: hard-light;
-    mix-blend-mode: multiply;
-    mix-blend-mode: hard-light;
-"></p>
+
+<img alt="image" loading="lazy" src="/tcb.jpeg" style="max-width: 300px;
+">
 
 *["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)*
+
+<img alt="image" loading="lazy" src="/mc.jpeg" style="max-width: 200px;
+">
 
 ---
 
