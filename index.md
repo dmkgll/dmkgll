@@ -42,10 +42,10 @@ This site is divided into the following top-level categories:
 
 ---
 
-<p>
+<!--<p>
 		<a href="https://validator.w3.org/check?uri=https://www.lolwut.info/index.html"><img src="https://anlucas.neocities.org/anow.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 		<a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx"><img src="https://anlucas.neocities.org/lol.gif" width="88" height="31" alt="Best viewed with Internet Explorer" title="Best viewed with Internet Explorer"></a>
 		<a href="https://512kb.club"><img src="https://512kb.club/assets/images/green-team.svg" /></a>
-	</p>
+	</p>-->
 
 *This page last updated 13 July 2022*
