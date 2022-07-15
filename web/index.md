@@ -3,16 +3,16 @@ layout: index
 title: Websites
 permalink: web
 ---
-	<h1>dmkgll's Web Site</h1>
-	["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)
 
-	
-	<hr>
-	
+# dmkgll's Web Site
 
-	<p><a href="/">Home</a> &gt; <a href="/web">Websites, Web Design, Blogging, Internet</a></p>
+["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)
+
+---
 	
-	<hr>
+<a href="/">Home</a> &gt; <a href="/web">Websites, Web Design, Blogging, Internet</a>
+	
+---
 
 # Websites, Web Design, Blogging, Internet
 
