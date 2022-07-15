@@ -7,8 +7,6 @@ layout: index
     padding: 0;
 }</style>
 
-#### dmkgll
-
 - [Hayek v. Keynes](/) <small>2014</small>
 
 - [Twitter](https://twitter.com/dmkgll)
