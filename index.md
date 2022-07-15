@@ -13,12 +13,12 @@ layout: index
 - [Email](/)
 
 
-<img alt="image" loading="lazy" src="/tcb.jpeg" style="max-width: 300px;
+<img alt="image" loading="lazy" src="/assets/tcb.jpeg" style="max-width: 300px;
 ">
 
 *["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)*
 
-<img alt="image" loading="lazy" src="/mc.jpeg" style="max-width: 200px;
+<img alt="image" loading="lazy" src="/assets/mc.jpeg" style="max-width: 200px;
 ">
 
 ---
