@@ -67,5 +67,12 @@ A collection of interesting bookmarks in no particular order.
 * [Zero HP Lovecraft](/) interesting short story author.
 * [Seth for Privacy](https://sethforprivacy.com/) good writings on crypto and online privacy
 
-### Webrings
+---
+
+<p>
+		<a href="https://validator.w3.org/check?uri=https://www.lolwut.info/index.html"><img src="https://anlucas.neocities.org/anow.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
+
+	</p>
+
+*This page last updated 13 July 2022*
 
