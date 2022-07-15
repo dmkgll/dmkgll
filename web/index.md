@@ -6,7 +6,7 @@ permalink: web
 
 # dmkgll's Web Site
 
-["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)
+*["According to the Internet, Deryk occupies every corner of the Nolan chart."](/)*
 
 ---
 	
