@@ -7,7 +7,7 @@ layout: index
     padding: 0;
 }</style>
 
-- [Hayek v. Keynes](/) <small>2014</small>
+- [Hayek v. Keynes](/hvk) <small>2014</small>
 
 - [Twitter](https://twitter.com/dmkgll)
 - [Email](/)
