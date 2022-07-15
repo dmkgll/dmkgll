@@ -7,10 +7,10 @@ layout: index
     padding: 0;
 }</style>
 
-
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) 2021
 - [Hayek v. Keynes](/hvk) 2014
 
+<p></p>
 
 - [Twitter](https://twitter.com/dmkgll)
 - [Email](/)
