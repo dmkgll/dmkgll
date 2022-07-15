@@ -33,9 +33,7 @@ A collection of interesting bookmarks in no particular order.
 - [Solar.LowtechMagazine.com](https://solar.lowtechmagazine.com/)
 - [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 
-### Webring/Blogroll
-
-People or projects I follow, know in person, or just think are interesting.
+### Blogroll
 
 #### Those with whom I have walked
 
@@ -43,14 +41,18 @@ People or projects I follow, know in person, or just think are interesting.
    - [The Direction of Our Eyes](https://isaacmorehouse.com/2022/05/02/the-direction-of-our-eyes/)
 * [Chuck Grimmett](/) a real polymath. Seems to know a bit of everything and always working on cool projects.
 * [Steve Patterson](/) one of the smartest guys I know. I'm not knowledgable enough to tell whether or not he's crazy.
-* 
 
 #### Those who from afar look like giants
 
 * [Gwern Branwen](/)
-* [qntm](/)
+* [qntm](/) very good science fiction story writer.
+* [Morlock Publishing](/) I wish he blogged more.
 
 #### Those who have just kicked the hornet's nest
+
+* [Coronacircus](/)
+* [Countermarkets](/)
+* [Zero HP Lovecraft](/) interesting short story author.
 
 ### Webrings
 
