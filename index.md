@@ -7,6 +7,7 @@ layout: index
     padding: 0;
 }</style>
 
+- [The Soon Times](thesoontimes.com) <small>2021-</small>
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
 - [Speaking](/speaking) <small>2014-2019</small>
 - [bitcoinsv.domains](/bsvdomains) <small>2020</small>
