@@ -8,6 +8,7 @@ layout: index
 }</style>
 
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
+- [Speaking](/speaking) <small>2014-2019</small>
 - [bitcoinsv.domains](/bsvdomains) <small>2020</small>
 - [Voice & Exit](/v&e) <small>2016</small>
 - [Bindel vs Yiannopoulos Debate](/bvyd) <small>2016</small>
