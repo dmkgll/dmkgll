@@ -6,7 +6,7 @@ layout: index
     list-style: none;
     padding: 0;
 }</style>
-- [Old writing](/oldstuff) <small>2013-2021</small>
+
 - [The Soon Times](thesoontimes.com) <small>2021-</small>
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
 - [bitcoinsv.domains](/bsvdomains) <small>2020</small>
@@ -16,6 +16,7 @@ layout: index
 - [No Hipster Stocks](/nohipster) <small>2015</small>
 - [Speaking](/speaking) <small>2014-2019</small>
 - [Hayek v. Keynes](/hvk) <small>2014</small>
+- [Old writing](/oldstuff) <small>2013-2021</small>
 - [We Were Promised Laptops](/wltops) <small>2012</small>
 
 <p></p>
