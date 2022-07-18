@@ -9,11 +9,11 @@ layout: index
 
 - [The Soon Times](thesoontimes.com) <small>2021-</small>
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
-- [bitcoinsv.domains](/bsvdomains) <small>2020</small>
-- [Pathly](/pathly) <small>2018</small>
+- [bitcoinsv.domains](/bsvdomains) <small>2020-2021</small>
+- [Pathly](/pathly) <small>2018-2019</small>
 - [Voice & Exit](/v&e) <small>2016</small>
 - [Bindel vs Yiannopoulos Debate](/bvyd) <small>2016</small>
-- [No Hipster Stocks](/nohipster) <small>2015</small>
+- [No Hipster Stocks](/nohipster) <small>2015-2016</small>
 - [Speaking](/speaking) <small>2014-2019</small>
 - [Hayek v. Keynes](/hvk) <small>2014</small>
 - [Old writing](/oldstuff) <small>2013-2021</small>
