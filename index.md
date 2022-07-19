@@ -8,7 +8,7 @@ layout: index
 }</style>
 
 - [I will not argue with strangers on the internet](/strangers) <small>2022-</small>
-- [How to Keep an Idiot in Suspense](https://howtokeepanidiotinsuspense.com) <small>2022-</small>
+- [How to keep an idiot in suspense](https://howtokeepanidiotinsuspense.com) <small>2022-</small>
 - [The Soon Times](thesoontimes.com) <small>2021-</small>
 - [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
 - [bitcoinsv.domains](/bsvdomains) <small>2020-2021</small>
