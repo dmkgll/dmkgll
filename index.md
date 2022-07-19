@@ -7,6 +7,7 @@ layout: index
     padding: 0;
 }</style>
 
+- [Ayn Rand Ipsum](/ayn-rand-ipsum) <small>2022-</small>
 - [I will not argue with strangers on the internet](/strangers) <small>2022-</small>
 - [How to keep an idiot in suspense](https://howtokeepanidiotinsuspense.com) <small>2022-</small>
 - [The Soon Times](thesoontimes.com) <small>2021-</small>
