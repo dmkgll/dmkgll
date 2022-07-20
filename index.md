@@ -37,6 +37,23 @@ layout: index
 <img alt="image" loading="lazy" src="/assets/mc.jpeg" style="max-width: 200px;
 ">
 
+```
++-----------------------------------------------+     
+|x o -                              advertisement     
+|                                               |     
+|    ^_~    DMKGLL.COM IS NOW SELLING           |     
+|                ADVERTISING SPACE          *_* |     
+| ©     ☭                              :]       |     
+|                 YOUR AD HERE                  |     
+|    ☉ ‿ ⚆                           ⚂          |     
+|          Δ           $                 €      |     
+|     ☆                       ✿                 |     
+|             ☀                  ☯              |     
++-----------------------------------------------+     
+ ```                                                     
+                                                      
+                                                      
+
 ---
 
 <p>
