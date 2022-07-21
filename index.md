@@ -56,7 +56,8 @@ layout: index
 +-----------------------------------------------+     
  ```                                                     
                                                       
-                                                      
+<img alt="image" loading="lazy" src="/assets/marsjunctionhat.png" style="max-width: 200px;
+">                                              
 
 ---
 
