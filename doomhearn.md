@@ -15,3 +15,5 @@ layout: index
 ##### memes about the declawing of Bitcoin
 
 ![Doom Hearn](/assets/doomhearn2.png)
+
+#### [The Resolution of the Bitcoin Experiment](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
