@@ -63,11 +63,23 @@ layout: index
 <p>
 		<a href="https://validator.w3.org/check?uri=https://www.lolwut.info/index.html"><img src="https://anlucas.neocities.org/anow.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 	
-<a href="https://twet.ch/inv/400a1db9"><img src="/assets/twetch.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
+<a href="https://twet.ch/inv/400a1db9"><img style="border-bottom: 2px inset rgb(0 0 0);
+    border-right: 2px inset rgb(0 0 0);
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 2.2rem;" src="/assets/twetch.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 	
 <a href="https://twet.ch/inv/400a1db9"><img src="/assets/notoweb3.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 	
-<a href="https://twet.ch/inv/400a1db9"><img src="/assets/marsjunction.png" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
+<a href="https://twet.ch/inv/400a1db9"><img style="border-bottom: 2px inset rgb(0 0 0);
+    border-right: 2px inset rgb(0 0 0);
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 2.2rem;" src="/assets/marsjunction.png" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 
 </p>
 
