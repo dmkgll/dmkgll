@@ -9,9 +9,9 @@ layout: index
 ---
 
 
-# *(Accidental) Ten Million Dollar Facebook Ad,* 2016
+# *(Accidental) Ten Million Dollar Facebook Ad,* 2015
 
 ![UTUC](/assets/acutuc.png)
-##### in 2016, I sent a product to a cute gun girl on Instagram and ran a simple ad with the iPhone pics she sent back to me. Somehow it blew up and has done over ten million dollars in sales since, probably many more. I really don't know why it did so well—the product obviously lent itself to going viral, but maybe the reason it did so well was because it was an iPhone photo rather than a professional modeling shot. Everyone does that now but we were doing it before it was cool. It was funny to see that as of July 21, 2022 people were *still* commenting on it. If I recall correctly, there were a lot more comments and likes but obviously over the years people delete their accounts.
+##### in 2015, I sent a product to a cute gun girl on Instagram and ran a simple ad with the iPhone pics she sent back to me. Somehow it blew up and has one over ten million dollars in sales since, probably many more. I really don't know why it did so well—the product obviously lent itself to going viral, but maybe the reason it did so well was because it was an iPhone photo rather than a professional modeling shot. Everyone does that now but we were doing it before it was cool. It was funny to see that as of July 21, 2022 people were *still* commenting on it. If I recall correctly, there were a lot more comments and likes but obviously over the years people delete their accounts.
 
 
