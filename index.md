@@ -5,7 +5,21 @@ layout: index
 <style>img{max-width:100%;}ul{
     list-style: none;
     padding: 0;
-}</style>
+}
+
+ @media (min-width: 600px) {
+        a:hover:after {
+            content: "<--- " attr(data);
+            position: absolute;
+            background: white;
+            color: black;
+            padding: 2px 4px;
+            margin: -2px 0 0 1px;
+        }
+  
+    }
+
+</style>
 
 - [Capitalist Software License](/) <small>2022</small>
 - [100 Day Blog](/fet) <small>2022</small>
@@ -33,6 +47,7 @@ layout: index
 - [Email](/)
 - [Featured In](/)
 
+<a href="/" data="platform for realtime communication with images, credited as playing a major roll in the resurgance of netart">testing</a>
 
 <img alt="image" loading="lazy" src="/assets/tcb.jpeg" style="max-width: 300px;
 ">
