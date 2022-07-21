@@ -21,34 +21,34 @@ layout: index
 
 </style>
 
-- [Capitalist Software License](/) <small>2022</small>
-- [100 Day Blog](/fet) <small>2022</small>
-- [Sci-Fi Covers](/fet) <small>2022</small>
-- [First Edition Tees](/fet) <small>2022</small>
-- [Ayn Rand Ipsum](/ayn-rand-ipsum) <small>2022-</small>
-- [I will not argue with strangers on the internet](/strangers) <small>2022-</small>
-- [How to keep an idiot in suspense](https://howtokeepanidiotinsuspense.com) <small>2022-</small>
-- [The Soon Times](thesoontimes.com) <small>2021-</small>
-- [Twetch Encrypt & Delete + Lock](/) <small>2021</small>
-- [Craig Wright's *Twelve Days of Christmas*](/csw12) <small>2021</small>
-- [bitcoinsv.domains](/bsvdomains) <small>2020-2021</small>
-- [Pathly](/pathly) <small>2018-2019</small>
-- [Voice & Exit](/v&e) <small>2016</small>
-- [Bindel vs Yiannopoulos Debate](/bvyd) <small>2016</small>
-- [No Hipster Stocks](/nohipster) <small>2015-2016</small>
-- [Speaking](/speaking) <small>2014-2019</small>
-- [Hayek v. Keynes](/hvk) <small>2014</small>
-- [Old writing](/oldstuff) <small>2013-2021</small>
-- [We Were Promised Laptops](/wltops) <small>2012</small>
+<ul>
+  <li><a href="/" data="a parody of the silly Anticapitalist Software License">Capitalist Software License</a> <small>2022</small></li>
+  <li><a href="/fet" data="blogging project inspired by Kevin Quirk">100 Day Blog</a> <small>2022</small></li>
+  <li><a href="/fet" data="blog featuring the best sci-fi cover art, mostly old">Sci-Fi Covers</a> <small>2022</small></li>
+  <li><a href="/fet">First Edition Tees</a> <small>2022</small></li>
+  <li><a href="/ayn-rand-ipsum">Ayn Rand Ipsum</a> <small>2022-</small></li>
+  <li><a href="/strangers">I will not argue with strangers on the internet</a> <small>2022-</small></li>
+  <li><a href="https://howtokeepanidiotinsuspense.com">How to keep an idiot in suspense</a> <small>2022-</small></li>
+  <li><a href="thesoontimes.com">The Soon Times</a> <small>2021-</small></li>
+  <li><a href="/">Twetch Encrypt &amp; Delete + Lock</a> <small>2021</small></li>
+  <li><a href="/csw12">Craig Wright’s <em>Twelve Days of Christmas</em></a> <small>2021</small></li>
+  <li><a href="/bsvdomains">bitcoinsv.domains</a> <small>2020-2021</small></li>
+  <li><a href="/pathly">Pathly</a> <small>2018-2019</small></li>
+  <li><a href="/v&amp;e">Voice &amp; Exit</a> <small>2016</small></li>
+  <li><a href="/bvyd">Bindel vs Yiannopoulos Debate</a> <small>2016</small></li>
+  <li><a href="/nohipster">No Hipster Stocks</a> <small>2015-2016</small></li>
+  <li><a href="/speaking">Speaking</a> <small>2014-2019</small></li>
+  <li><a href="/hvk">Hayek v. Keynes</a> <small>2014</small></li>
+  <li><a href="/oldstuff">Old writing</a> <small>2013-2021</small></li>
+  <li><a href="/wltops">We Were Promised Laptops</a> <small>2012</small></li>
+</ul>
 
 <p></p>
 
 - [Twitter](https://twitter.com/dmkgll)
 - [Email](/)
 - [Featured In](/)
-
-<a href="/" data="platform for realtime communication with images, credited as playing a major roll in the resurgance of netart">testing</a>
-
+		    
 <img alt="image" loading="lazy" src="/assets/tcb.jpeg" style="max-width: 300px;
 ">
 
