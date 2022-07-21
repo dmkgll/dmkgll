@@ -66,6 +66,8 @@ layout: index
 <a href="https://twet.ch/inv/400a1db9"><img src="/assets/twetch.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 	
 <a href="https://twet.ch/inv/400a1db9"><img src="/assets/notoweb3.gif" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
+	
+<a href="https://twet.ch/inv/400a1db9"><img src="/assets/marsjunction.png" width="88" height="31" alt="Valid HTML 4.01 Strict" title="Valid HTML 4.01 Strict"></a>
 
 </p>
 
