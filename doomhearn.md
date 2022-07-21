@@ -11,5 +11,7 @@ layout: index
 
 # *Doom Hearn,* 2022
 
-![UTUC](/assets/doomhearn.png)
+![Doom Hearn](/assets/doomhearn.png)
 ##### memes about the declawing of Bitcoin
+
+![Doom Hearn](/assets/doomhearn2.png)
