@@ -7,6 +7,7 @@ layout: index
     padding: 0;
 }</style>
 
+- [Capitalist Software License](/) <small>2022</small>
 - [100 Day Blog](/fet) <small>2022</small>
 - [Sci-Fi Covers](/fet) <small>2022</small>
 - [First Edition Tees](/fet) <small>2022</small>
