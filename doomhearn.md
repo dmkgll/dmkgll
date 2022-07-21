@@ -16,6 +16,10 @@ layout: index
 
 ![Doom Hearn](/assets/doomhearn2.png)
 
-#### [The Resolution of the Bitcoin Experiment](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
-
 ![Doom Hearn](/assets/doomhearn3.png)
+
+#### suggested reading
+
+[The Resolution of the Bitcoin Experiment](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
+
+[The philosophical origins of Bitcoin’s civil war](https://medium.com/mike-hearn/the-philosophical-origins-of-bitcoins-civil-war-400468335377)
