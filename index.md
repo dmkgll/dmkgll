@@ -30,6 +30,7 @@ layout: index
   <li><a href="/strangers">I will not argue with strangers on the internet</a> <small>2022-</small></li>
   <li><a href="https://howtokeepanidiotinsuspense.com">How to keep an idiot in suspense</a> <small>2022-</small></li>
   <li><a href="thesoontimes.com">The Soon Times</a> <small>2021-</small></li>
+  <li><a href="thesoontimes.com">Numpty Coin Club Teeshirt</a> <small>2021</small></li>
   <li><a href="/">Twetch Encrypt &amp; Delete + Lock</a> <small>2021</small></li>
   <li><a href="/csw12">Craig Wright’s <em>Twelve Days of Christmas</em></a> <small>2021</small></li>
   <li><a href="/bsvdomains">bitcoinsv.domains</a> <small>2020-2021</small></li>
