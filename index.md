@@ -25,7 +25,7 @@ layout: index
   <li><a href="/" data="a parody of the silly Anticapitalist Software License">Capitalist Software License</a> <small>2022</small></li>
   <li><a href="/doomhearn" data="a parody of the silly Anticapitalist Software License">Doom Hearn</a> <small>2022</small></li>
   <li><a href="/fet" data="blogging project inspired by Kevin Quirk">100 Day Blog</a> <small>2022</small></li>
-  <li><a href="/fet" data="bitcoin fine art project inspired by Andy Warhol and (Dr.) Roy Murphy">Royhol</a> <small>2022</small></li>
+  <li><a href="/royhol" data="bitcoin fine art project inspired by Andy Warhol and (Dr.) Roy Murphy">Royhol</a> <small>2022</small></li>
   <li><a href="/fet" data="blog featuring the best sci-fi cover art, mostly old">Sci-Fi Covers</a> <small>2022</small></li>
   <li><a href="/fet">First Edition Tees</a> <small>2022</small></li>
   <li><a href="/ayn-rand-ipsum">Ayn Rand Ipsum</a> <small>2022-</small></li>
