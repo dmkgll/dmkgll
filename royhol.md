@@ -10,13 +10,15 @@ layout: index
 
 # *Royhol,* 2022
 
+#### bitcoin fine art parody project inspired by Andy Warhol and (Dr.) Roy Murphy. each piece is a of one-of-a-kind canvas.
+
 ![Royhol](/assets/royhol1.jpg)
 
 #### $899, *sold*
 
 ![Royhol](/assets/royhol2.jpg)
 
-#### $899 *for sale*
+#### $899, *for sale*
 
 ![Royhol](/assets/royhol3.jpg)
 
