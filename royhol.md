@@ -10,18 +10,15 @@ layout: index
 
 # *Royhol,* 2022
 
-![Royhol](/assets/royhol1.png)
+![Royhol](/assets/royhol1.jpg)
 
 #### $899, *sold*
 
-![Royhol](/assets/royhol2.png)
+![Royhol](/assets/royhol2.jpg)
 
 #### $899 *for sale*
 
-![Royhol](/assets/royhol3.png)
+![Royhol](/assets/royhol3.jpg)
 
 #### $899, *for sale*
 
-![Royhol](/assets/royhol4.png)
-
-#### $899, *for sale*
