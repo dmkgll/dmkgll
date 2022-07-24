@@ -22,6 +22,7 @@ layout: index
 </style>
 
 <ul>
+<li><a href="/" data="a parody of the silly Anticapitalist Software License">The Family of the Vourdalak</a> <small>2022</small></li>
   <li><a href="/" data="a parody of the silly Anticapitalist Software License">Capitalist Software License</a> <small>2022</small></li>
   <li><a href="/doomhearn" data="a parody of the silly Anticapitalist Software License">Doom Hearn</a> <small>2022</small></li>
   <li><a href="/fet" data="blogging project inspired by Kevin Quirk">100 Day Blog</a> <small>2022</small></li>
