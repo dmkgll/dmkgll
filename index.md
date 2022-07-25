@@ -20,6 +20,8 @@ layout: index
     }
 
 </style>
+		    
+### Deryk Makgill, d.mkgll.com
 
 <ul>
 <li><a href="/" data="a parody of the silly Anticapitalist Software License">Based Penguin Classics</a> <small>2022</small></li>		    
