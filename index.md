@@ -24,7 +24,7 @@ layout: index
 ### Deryk Makgill, d.mkgll.com
 
 <ul>
-<li><a href="/" data="a parody response to the smug banned books store displays that feature totally uncotroversial books">Based Penguin Classics</a> <small>2022</small><br>a parody response to the smug "banned books" store displays that feature totally uncontroversial books</li>		    
+<li><a href="/" data="A parody response to the smug banned books store displays that feature totally uncontroversial books.">Based Penguin Classics</a> <small>2022</small><br>a parody response to the smug "banned books" store displays that feature totally uncontroversial books</li>		    
 <li><a href="/" data="a parody of the silly Anticapitalist Software License">The Family of the Vourdalak</a> <small>2022</small></li>
   <li><a href="/" data="a parody of the silly Anticapitalist Software License">Capitalist Software License</a> <small>2022</small></li>
   <li><a href="/doomhearn" data="a parody of the silly Anticapitalist Software License">Doom Hearn</a> <small>2022</small></li>
