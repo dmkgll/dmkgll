@@ -7,7 +7,7 @@ layout: index
     padding: 0;
 }
 
- @media (min-width: 600px) {
+ /*@media (min-width: 600px) {
         a:hover:after {
             content: "<--- " attr(data);
             position: absolute;
@@ -17,14 +17,14 @@ layout: index
             margin: -2px 0 0 1px;
         }
   
-    }
+    }*/
 
 </style>
 		    
 ### Deryk Makgill, d.mkgll.com
 
 <ul>
-<li><a href="/" data="a parody of the silly Anticapitalist Software License">Based Penguin Classics</a> <small>2022</small></li>		    
+<li><a href="/" data="a parody response to the smug banned books store displays that feature totally uncotroversial books">Based Penguin Classics</a> <small>2022</small><br>a parody response to the smug "banned books" store displays that feature totally uncontroversial books</li>		    
 <li><a href="/" data="a parody of the silly Anticapitalist Software License">The Family of the Vourdalak</a> <small>2022</small></li>
   <li><a href="/" data="a parody of the silly Anticapitalist Software License">Capitalist Software License</a> <small>2022</small></li>
   <li><a href="/doomhearn" data="a parody of the silly Anticapitalist Software License">Doom Hearn</a> <small>2022</small></li>
