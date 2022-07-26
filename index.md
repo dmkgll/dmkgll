@@ -32,7 +32,7 @@ layout: index
   <li><a href="/royhol" data="bitcoin fine art project inspired by Andy Warhol and (Dr.) Roy Murphy">Royhol</a> <small>2022</small></li>
   <li><a href="/fet" data="blog featuring the best sci-fi cover art, mostly old">Sci-Fi Covers</a> <small>2022</small></li>
   <li><a href="/fet">First Edition Tees</a> <small>2022</small></li>
-  <li><a href="/ayn-rand-ipsum">Ayn Rand Ipsum</a> <small>2022-</small></li>
+  <li><a href="/ayn-rand-ipsum">Ayn Rand Ipsum</a> <small>2022-</small><br>An alternative to the ubiquitous Lorem Ipsum.</li>
   <li><a href="/strangers">I will not argue with strangers on the internet</a> <small>2022-</small></li>
   <li><a href="https://howtokeepanidiotinsuspense.com">How to keep an idiot in suspense</a> <small>2022-</small></li>
   <li><a href="thesoontimes.com">The Soon Times</a> <small>2021-</small></li>
