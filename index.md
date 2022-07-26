@@ -47,9 +47,9 @@ layout: index
   <li><a href="/nohipster">No Hipster Stocks</a> <small>2015-2016</small></li>
   <li><a href="/speaking">Speaking</a> <small>2014-2019</small></li>
   <li><a href="https://discoverpraxis.com">Praxis</a> <small>2014-2018</small></li>		    
-  <li><a href="/hvk">Hayek v. Keynes</a> <small>2014</small></li>
+  <li><a href="/hvk">Hayek v. Keynes</a> <small>2014</small><br>Submission for a libertarian art gala.</li>
   <li><a href="/oldstuff">Old writing</a> <small>2013-2021</small></li>
-  <li><a href="/wltops">We Were Promised Laptops</a> <small>2012</small></li>
+  <li><a href="/wltops">We Were Promised Laptops</a> <small>2012</small><br>Trolling the highschool admin.</li>
 </ul>
 
 <p></p>
