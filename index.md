@@ -39,7 +39,7 @@ layout: index
   <li><a href="thesoontimes.com">Numpty Coin Club Teeshirt</a> <small>2021</small></li>
   <li><a href="/">Twetch Encrypt &amp; Delete + Lock</a> <small>2021</small></li>
   <li><a href="/csw12">Craig Wright’s <em>Twelve Days of Christmas</em></a> <small>2021</small></li>
-  <li><a href="/bsvdomains">bitcoinsv.domains</a> <small>2020-2021</small><br>BSV domain squatting site that owned most of the available BSV and BiticoinSV TLDs before they were seized by Namecheap. RIP.</li>
+  <li><a href="/bsvdomains">bitcoinsv.domains</a> <small>2020-2021</small><br>BSV domain squatting site. RIP.</li>
   <li><a href="/pathly">Pathly</a> <small>2018-2019</small></li>
   <li><a href="/v&amp;e">Voice &amp; Exit</a> <small>2016</small></li>
   <li><a href="/bvyd">Bindel vs Yiannopoulos Debate</a> <small>2016</small></li>
