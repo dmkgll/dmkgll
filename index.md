@@ -41,7 +41,7 @@ layout: index
   <li><a href="/csw12">Craig Wright’s <em>Twelve Days of Christmas</em></a> <small>2021</small></li>
   <li><a href="/bsvdomains">bitcoinsv.domains</a> <small>2020-2021</small><br>BSV domain squatting site. RIP.</li>
   <li><a href="/pathly">Pathly</a> <small>2018-2019</small></li>
-  <li><a href="/v&amp;e">Voice &amp; Exit</a> <small>2016</small></li>
+  <li><a href="/v&amp;e">Voice &amp; Exit</a> <small>2016</small><br>Marketing strategy for anarcho-futurist conference in Austin, TX.</li>
   <li><a href="/bvyd">Bindel vs Yiannopoulos Debate</a> <small>2016</small></li>
   <li><a href="/acutuc">(Accidental) Ten Million Dollar Facebook Ad</a> <small>2015</small></li>		    
   <li><a href="/nohipster">No Hipster Stocks</a> <small>2015-2016</small></li>
