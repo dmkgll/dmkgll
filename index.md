@@ -20,8 +20,7 @@ layout: index
     }*/
 
 </style>
-		    
-### Deryk Makgill, d.mkgll.com
+		   
 
 <ul>
 <li><a href="/" data="A parody response to the smug banned books store displays that feature totally uncontroversial books.">Based Penguin Classics</a> <small>2022</small><br>A parody response to the smug "banned books" store displays with uncontroversial books.</li>		    
