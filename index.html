@@ -42,17 +42,14 @@ body{font-family:sans-serif;font-size:14px;}
 <div class="post">
        <h1>
 <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
- {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-</span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→</span> 
-  {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
-         </span>  {% endif %}
-       </h2>
+ {% if document.layout == "index" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+</span>{% endif %}
+       </h1>
        
         <p class="p-content"> 
    {{ document.content }}
  </p>
-         {% endif %}
-      
+       
         
  </div> 
   {% endif %}   
