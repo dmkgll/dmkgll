@@ -34,6 +34,21 @@ body{font-family:sans-serif;font-size:14px;}
 		    
 
 </style>
+		    
+		    
+ <div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 		   
 <!---
 <ul>
