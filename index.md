@@ -6,7 +6,7 @@ layout: index
     list-style: none;
     padding: 0;
 }
-body{font-family:sans-serif;font-size:13px;}
+body{font-family:sans-serif;font-size:14px;}
  /*@media (min-width: 600px) {
         a:hover:after {
             content: "<--- " attr(data);
@@ -18,6 +18,20 @@ body{font-family:sans-serif;font-size:13px;}
         }
   
     }*/
+		    
+		    h1, h2 {
+    /* margin: 1.5em 0 0.5em; */
+    font-size: 18px;
+    padding: 10px;
+    font-family: serif;
+    /* text-transform: uppercase; */
+    background: yellow;
+}
+		    
+		    p {
+    margin: 0.5em 0.5em 1em 1em;
+}
+		    
 
 </style>
 		   
