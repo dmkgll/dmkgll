@@ -33,27 +33,7 @@ body{font-family:sans-serif;font-size:14px;}
 }
 	.post{max-width:435px;}	    
 
-</style>
-
-{% assign documents = site.documents | sort: 'date' | reverse %}
-
-{% for document in documents limit:500 %}
-  {% if document.layout == 'index' %}
-<div class="post">
-       <h1>
-<span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
- {% if document.layout == "index" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-</span>{% endif %}
-       </h1>
-       
-        <p class="p-content"> 
-   {{ document.content }}
- </p>
-       
-        
- </div> 
-  {% endif %}   
-{% endfor %}		    
+</style>	    
 		    
 		    
 		    
