@@ -53,10 +53,11 @@ body{font-family:sans-serif;font-size:13px;}
 
 <p></p>
 
+<!---
 - [Twitter](https://twitter.com/dmkgll)
 - [Email](/)
 - [Featured In](/)
-		    
+ --->
 <img alt="image" loading="lazy" src="/assets/tcb.jpeg" style="max-width: 300px;
 ">
 
