@@ -6,7 +6,7 @@ layout: index
     list-style: none;
     padding: 0;
 }
-
+body{font-family:sans-serif;font-size:13px;}
  /*@media (min-width: 600px) {
         a:hover:after {
             content: "<--- " attr(data);
@@ -21,7 +21,7 @@ layout: index
 
 </style>
 		   
-
+<!---
 <ul>
 <li><a href="/" data="A parody response to the smug banned books store displays that feature totally uncontroversial books.">Based Penguin Classics</a> <small>2022</small><br>A parody response to the smug "banned books" store displays with uncontroversial books.</li>		    
 <li><a href="/" data="a parody of the silly Anticapitalist Software License">The Family of the Vourdalak</a> <small>2022</small><br>My translation of the 1839 vampire short story by Aleksey Tolstoy.</li>
@@ -49,7 +49,7 @@ layout: index
   <li><a href="/hvk">Hayek v. Keynes</a> <small>2014</small><br>Submission for a libertarian art gala.</li>
   <li><a href="/oldstuff">Old writing</a> <small>2013-2021</small></li>
   <li><a href="/wltops">We Were Promised Laptops</a> <small>2012</small><br>Trolling the highschool admin.</li>
-</ul>
+</ul>--->
 
 <p></p>
 
