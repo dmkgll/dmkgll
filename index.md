@@ -40,35 +40,19 @@ body{font-family:sans-serif;font-size:14px;}
 {% for document in documents limit:500 %}
   {% if document.layout == 'index' %}
 <div class="post-stub">
-       <h2>
+       <h1>
 <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
  {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-</span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
-         </span> 
+</span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→</span> 
   {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
          </span>  {% endif %}
-       
-       
        </h2>
-       {% if document.layout == "post" %}   <p class="p-content"> {{ document.excerpt  }} </p>     
-       {% else %}
        
         <p class="p-content"> 
-   {{ document.content | truncate: 445 }}
+   {{ document.content }}
  </p>
          {% endif %}
-       
-    {% if document.image %}
-      <div class="post-image">
-        <a href="{{ document.url | relative_url }}" style="
-    text-decoration: none;
-">
-          <img src="{{ document.image | relative_url }}" alt="{{ document.alt }}" style="max-width:60%">
-          
-        </a>
-       </div>  
-       {% endif %}         
-         
+      
         
  </div> 
   {% endif %}   
