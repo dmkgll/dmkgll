@@ -31,7 +31,7 @@ body{font-family:sans-serif;font-size:14px;}
 		    p {
     margin: 0.5em 0.5em 1em 1em;
 }
-		    
+	.post{max-width:435px;}	    
 
 </style>
 
@@ -39,7 +39,7 @@ body{font-family:sans-serif;font-size:14px;}
 
 {% for document in documents limit:500 %}
   {% if document.layout == 'index' %}
-<div class="post-stub">
+<div class="post">
        <h1>
 <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
  {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
