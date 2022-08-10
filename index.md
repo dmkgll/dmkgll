@@ -44,8 +44,7 @@ body{font-family:sans-serif;font-size:14px;}
         {{ post.title }}
       </a>
     </h1>
-
-    {{ post.content }}
+{{ post.content }}
   </div>
   {% endfor %}
 </div>
