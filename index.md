@@ -41,20 +41,15 @@ body{font-family:sans-serif;font-size:14px;}
   {% if document.layout == 'index' %}
 <div class="post-stub">
        <h2>
-      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
-             {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
+<span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+ {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+</span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
          </span> 
-         
-        {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
+  {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
          </span>  {% endif %}
        
        
        </h2>
-         {% if document.reply %}
- <p><span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em; line-break:anywhere;">↳ In reply to <a href="{{ document.reply | relative_url }}" class="u-in-reply-to h-cite">{{ document.reply }}</a></span></p>
-  {% endif %}
-       
        {% if document.layout == "post" %}   <p class="p-content"> {{ document.excerpt  }} </p>     
        {% else %}
        
