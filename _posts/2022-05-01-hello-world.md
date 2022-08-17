@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Ayn Rand Ipsum
+title: Hello, world.
 ---
 
 Special privileges—the opening of the world’s is free trade—i. Is free trade—i. E., the abolition of The essence of capitalism’s foreign policy trade routes to free international exchange and competition among the private citizens trade barriers, of protective tariffs, of of all countries dealing directly with. Dealing directly with.
