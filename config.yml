@@ -1,2 +1,4 @@
 # comments
 staticman_url: https://whispering-sierra-07473.herokuapp.com/v3/entry/github/dmkgll/dmkgll.github.io/main/comments
+
+paginate_path: "/blog/page:num/"
