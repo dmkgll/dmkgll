@@ -2,9 +2,11 @@
 layout: index
 ---
 
-<h2>Deryk's blog</h2>
+<h2>Deryk's Blog</h2>
 
-<style>.post-content{margin:1em;}</style>
+<p>Comments? dmkgll (at) protonmail dot ch</p>
+
+<style>.post-content{margin:2em;}</style>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -16,7 +18,7 @@ layout: index
     {{ post.content }}
     </div>
     
-    <p><a href="{{ post.url }}">{{ post.url }}</a></p>
+    <p><a href="{{ post.url }}">permalink</a></p>
   </div>
   {% endfor %}
 </div>
