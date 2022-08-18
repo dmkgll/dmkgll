@@ -1,6 +1,6 @@
 ---
 layout: index
-title: a short story sketch
+title: Short story sketch
 ---
 
 I have an idea for a short story. Maybe it's called *Terms of Service.* You'll see why, though it could also be called
@@ -11,7 +11,7 @@ think that is unbelievable because the things that happen in this short story ar
 
 So...let's pick an arbitrary safe date.
 
-The year is 2033. John is an average normie with a good life somewhere in the USa. We meet him as he has just woken up and is walking downstairs on what appears to be a normal morning.
+The year is 2033. John is an average normie with a good life somewhere in the USA. We meet him as he has just woken up and is walking downstairs on what appears to be a normal morning.
 
 The first sign that this is *not* a normal morning is that his smart, wi-fi enabled Keurig machine which he uses to make his morning
 coffee every day won't work. It's not broken though. It turns on. It's just that the screen flashes a notice he has never seen before. It says *TOS Violation - Please see email for more details on reactivating your device.*
