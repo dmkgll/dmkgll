@@ -21,13 +21,13 @@ layout: index
   {% for post in paginator.posts %}
   <div class="post">
     <h2 class="post-title">
-        {{ post.title }} - <span class="post-date">{{ post.date | date_to_string }}</span>
+        {{ post.title }}
     </h2>
 <div class="post-content">
     {{ post.content }}
     </div>
     
-    <p><a href="{{ post.url }}">permalink</a></p>
+    <p><span class="post-date">{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">permalink</a></p>
   </div>
   {% endfor %}
 </div>
