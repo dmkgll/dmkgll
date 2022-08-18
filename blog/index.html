@@ -5,7 +5,7 @@ layout: index
 <p><a href="/">back to homepage
 </a></p>
 <hr>
-<h2>dmkgll's blog</h2>
+<h1>dmkgll's blog</h1>
 
 <p>Comments? dmkgll (at) protonmail dot ch. <a href="/dfa">RSS.</a></p>
 
@@ -18,9 +18,9 @@ layout: index
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h3 class="post-title">
+    <h2 class="post-title">
         {{ post.title }} - <span class="post-date">{{ post.date | date_to_string }}</span>
-    </h3>
+    </h2>
 <div class="post-content">
     {{ post.content }}
     </div>
