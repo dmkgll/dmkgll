@@ -16,7 +16,7 @@ layout: index
 <p><a href="/">What is a/this blog?</a></p>
 
 <style>/*.post-content{margin-left:2em;margin-right:2em;}*/</style>
-
+<hr>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -28,7 +28,7 @@ layout: index
     </div>
     
     <p><span class="post-date">{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">permalink</a></p>
-  </div>
+  </div><hr>
   {% endfor %}
 </div>
 
