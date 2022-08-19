@@ -18,7 +18,7 @@ coffee every day won't work. It's not broken though. It turns on. It's just that
 
 *What the hell?* John thinks to himself. *How can you violate the terms of a Keurig machine?*
 
-He grabs his phone to check his email but he can't get in. It's not broken either. *TOS Violation. Your phone has been locked until the required steps are completed. Do you wish to continue?"
+He grabs his phone to check his email but he can't get in. It's not broken either. *TOS Violation. Your phone has been locked until the required steps are completed. Do you wish to continue?*
 
 *This is ridiculous,* says John aloud. He decides it's probably a software issue and that he is going to take a shower and head out to get coffee before going to the Apple store.
 
