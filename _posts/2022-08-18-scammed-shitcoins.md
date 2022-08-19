@@ -1,6 +1,6 @@
 ---
 layout: index
-title: How You're Being Scammed into Buying Shitcoins (Edition #1 of ∞)
+title: "How You're Being Scammed into Buying Shitcoins (Edition #1 of ∞)"
 ---
 
 Here's a trick you can use the next time some flashy zoomer with a bird's nest and veneers tries to tell you to buy
