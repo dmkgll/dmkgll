@@ -9,7 +9,7 @@ their crypto token on YouTube: read the comments.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2v6rKsp6yJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The other day I came across this video for no reason at all (seriously why is YouTube promoting this to me?) and the term
-"DESO" (decentralized social media) sounded so ridiculous to me I had to watch. Putting aside the fact that the guys in the video
+"DeSo" (decentralized social media) sounded so ridiculous to me I had to watch. Given the fact that the guys in the video
 have no idea what they are talking about and are obviously getting some kind of kickback to promote this crap, I was surprised
 by just how many comments the video seemed to have. 
 
