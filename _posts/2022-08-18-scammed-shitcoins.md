@@ -10,7 +10,7 @@ their crypto token on YouTube: read the comments.
 
 The other day I came across this video for no reason at all (seriously why is YouTube promoting this to me?) and the term
 "DeSo" (decentralized social media) sounded so ridiculous to me I had to watch. Given the fact that the guys in the video
-have no idea what they are talking about and are obviously getting some kind of kickback to promote this crap, I was surprised
+have no idea what they are talking about, are obviously getting some kind of kickback to promote this crap, and are speaking about the coin in such a way that would probably land a licensed stock advisor in jail, I was surprised
 by just how many comments the video seemed to have. 
 
 Do people actually like this nonsense? Probably. People paying small fortunes like cartoon ape jpegs.
