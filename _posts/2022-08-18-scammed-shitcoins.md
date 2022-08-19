@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: blog
 title: "How You're Being Scammed into Buying Shitcoins (Edition #1 of ∞)"
 ---
 
