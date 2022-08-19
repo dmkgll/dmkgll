@@ -17,13 +17,13 @@ Do people actually like this nonsense? Probably. People paying small fortunes li
 
 Still, the comments tell an interesting story.
 
-*THANK YOU FOR EVERYTHING YOU GUYS DO ITS A BLESSING GOOD LUCK ON THE CAR GIVEAWAY TO EVERYONE WHO ENTERED.*
-
-*I need a car but congratulations  to whoever  wins hope it goes to someone who really needs it instead of ppl just wanting  a car   but hey god bless everyone."
-
-*They are truly very talented people, I admire what they are still achieving, hopefully at some point I will be like you 🔑❤️🍀🤑*
-
-*Thank you HighKey Clout For This Info 🤘🏽💯❤️😇 You Guys ROCK!*
+> *THANK YOU FOR EVERYTHING YOU GUYS DO ITS A BLESSING GOOD LUCK ON THE CAR GIVEAWAY TO EVERYONE WHO ENTERED.*
+>
+>*I need a car but congratulations  to whoever  wins hope it goes to someone who really needs it instead of ppl just wanting  a car   but hey god bless everyone.*
+>
+>*They are truly very talented people, I admire what they are still achieving, hopefully at some point I will be like you 🔑❤️🍀🤑*
+>
+>*Thank you HighKey Clout For This Info 🤘🏽💯❤️😇 You Guys ROCK!*
 
 Almost every comment is like this, that is, vaccuous fawning that has nothing to do with the video and everything to do with some giveway.
 
