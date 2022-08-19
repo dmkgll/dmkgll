@@ -27,6 +27,5 @@ Almost every comment is like this, that is, vaccuous fawning that has nothing to
 
 What the hell, right? Well it turns out the "activity" and the "excitement" for this coin on this video are all fake. The comments? A requirement to enter their giveaway. The views? Probably fake too. But as long as you don't look too closely, it's got the appearance of genuine hype that you *just.don't.want.to.miss.out.on.*
 
-At least they put a warning in their description to beware of scammers. But they should have included themselves in that warning.
-
+At least they put a warning in their description to beware of scammers...
 
