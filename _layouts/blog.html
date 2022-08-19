@@ -1,0 +1,52 @@
+<html><head>
+ <title>{{page.title}}</title>
+ <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+ <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+ <style>a:visited{color: blue;}
+ .dark-mode {
+  background-color: #111;
+  color: wheat;
+}
+  
+  .dark-mode a {
+  /*color:#ffb200;*/
+   color: #00bcd4;
+}
+  
+  .dark-mode a:visited{
+ /* color: #ffb200;*/
+   color: #088392;
+}
+  
+    .dark-mode hr{
+  border:1px solid black;
+}
+  
+   .dark-mode img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+  }
+  .dark-mode img:hover {
+    opacity: 1;
+  }
+ 
+ 
+ </style>
+    </head>
+<body>
+
+  <h4>{{page.title}}</h4>
+  <hr>
+  
+  {{ content}}
+    
+
+<!--<button onclick="myFunction()">Toggle dark mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>-->
+</body></html>
