@@ -10,7 +10,7 @@ layout: index
 
 ---
 
-If you have any questions or suggestions, write to d at mkgll dot ch
+*If you have any questions or suggestions, write to d at mkgll dot ch*
 
 ---
 
