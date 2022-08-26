@@ -6,7 +6,7 @@ layout: index
     text-align: right;
 "><a href="/">https://d.mkgll.com</a></p>
 
-[Bibliography of books banned on Amazon](/ba)
+[Bibliography](/ba) of books banned on Amazon.
 
 ---
 
