@@ -11,6 +11,7 @@ layout: index
 ---
 
 *If you have any questions or suggestions, write to d at mkgll dot ch*
+
 ---
 
 <small>last update: 25 August 2022</small>
