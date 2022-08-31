@@ -1,6 +1,7 @@
 ---
 layout: defaultd
 title: Short story sketch
+permalink: tws
 ---
 
 I have an idea for a short story. Maybe it's called *Terms of Service.* You'll see why, though it could also be called
