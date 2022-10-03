@@ -24,3 +24,27 @@ layout: index
 <li><a href="/web/20210101003743/https://www.gwern.net/Holy-wars" class="docMetadata linkBibliography-has-annotation spawns-popup">“Holy Wars are Co­or­di­na­tion Prob­lems”</a></li>
 <li><a href="/web/20210101003743/https://www.gwern.net/newsletter/2020/05" class="docMetadata linkBibliography-has-annotation spawns-popup">May 2020 newslet­ter</a></li>
 </ul>
+
+## Statistics
+
+<ul>
+<li><a href="/web/20210101003743/https://www.gwern.net/Causality" id="causality-2" class="docMetadata linkBibliography-has-annotation spawns-popup">Why Cor­re­la­tion Usu­ally ≠ Cau­sa­tion</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Mail-delivery" id="mail-2" class="docMetadata linkBibliography-has-annotation spawns-popup">When Does The Mail Come? De­ci­sion Analy­sis</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Google-shutdowns" id="shutdowns-2" class="docMetadata linkBibliography-has-annotation spawns-popup">Pre­dict­ing Google ser­vice clo­sures</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Prediction-markets" class="docMetadata linkBibliography-has-annotation spawns-popup">Pre­dict­ing &amp; Pre­dic­tion Mar­kets</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Ads" id="ads-2" class="docMetadata linkBibliography-has-annotation spawns-popup">Ban­ner Ads Con­sid­ered Harm­ful (Here)</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Research-criticism" class="docMetadata linkBibliography-has-annotation spawns-popup">How To Cri­tique Re­search?</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/2012-election-predictions" class="docMetadata linkBibliography-has-annotation spawns-popup">Judg­ing the 2012 elec­tion fore­cast­ers</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Candy-Japan" class="docMetadata linkBibliography-has-annotation spawns-popup">Candy Japan’s new-box A/<wbr>B test</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Resorter" class="docMetadata linkBibliography-has-annotation spawns-popup">In­ter­ac­tively Re­sort­ing Lists</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Google-Alerts" class="docMetadata linkBibliography-has-annotation spawns-popup">Google Alerts Over Time</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Order-statistics" class="docMetadata linkBibliography-has-annotation spawns-popup">Ex­pected Max­i­mum of Gaus­sians</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Everything" class="docMetadata linkBibliography-has-annotation spawns-popup">Every­thing Is Cor­re­lated</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/docs/statistics/order/beanmachine-multistage/index.html" class="docMetadata linkBibliography-has-annotation spawns-popup">Mul­ti­-Stage Se­lec­tion JS Demo</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Milk" class="docMetadata linkBibliography-has-annotation spawns-popup">Power of Twins: the Milk Ex­per­i­ment</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Hunter" class="docMetadata linkBibliography-has-annotation spawns-popup"><em>Ge­nius Re­vis­ited</em>: High­-IQ School Flaws</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/hpmor#analysis" class="has-content spawns-popup">Mod­el­ing fic­tion re­view rates</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/GoodReads" class="docMetadata linkBibliography-has-annotation spawns-popup">Mod­el­ing fic­tion drop rates</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/EA-donations" class="docMetadata linkBibliography-has-annotation spawns-popup">LW Effec­tive Al­tru­ism do­na­tions, 2013–2014</a></li>
+<li><a href="/web/20210101003743/https://www.gwern.net/Statistical-notes" class="docMetadata linkBibliography-has-annotation spawns-popup">Mis­cel­la­neous</a></li>
+</ul>
