@@ -1,5 +1,5 @@
 # comments
 staticman_url: https://whispering-sierra-07473.herokuapp.com/v3/entry/github/dmkgll/dmkgll.github.io/main/comments
 
-paginate: 20
+paginate: 200
 paginate_path: "/blog/page:num/"
