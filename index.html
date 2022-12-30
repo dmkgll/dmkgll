@@ -15,7 +15,7 @@ layout: index
 
   
 
-    <dt class="post-date">{{ post.date | date_to_string }}</dt>
+    <dt class="post-date">{{ post.date | date: '%B %d, %Y' }}</dt>
 
   <dd>  {{ post.content }}</dd>
 
