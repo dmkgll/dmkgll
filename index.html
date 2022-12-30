@@ -3,15 +3,17 @@ layout: index
 ---
 
 <div class="posts">
+  <dl id="p">
   {% for post in paginator.posts %}
-<dl id="p">
+
   
 
     <dt class="post-date">{{ post.date | date_to_string }}</dt>
 
   <dd>  {{ post.content }}</dd>
-  </dl>
+
   {% endfor %}
+     </dl>
 </div>
 
 
