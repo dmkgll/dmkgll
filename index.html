@@ -1,0 +1,13 @@
+---
+layout: index
+---
+
+<style> dt{font-weight:strong;}</syle>
+
+<dl id="posts">
+    {% for post in paginator.posts %}
+  <dt>{{ post.date | date_to_string }}</dt>
+  <dd>    {{ post.content }}</dd>
+    {% endfor %}
+  
+</dl>
