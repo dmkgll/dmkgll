@@ -2,25 +2,5 @@
 layout: index
 ---
 
-<style>p:first-of-type {
-  margin-top:0px;
-}
-  p:last-of-type {
-  margin-bottom:5px;
-  }</style>
-
-<div class="posts">
-  <p id="p">
-  {% for post in paginator.posts %}
-
-  
-
-    <h3 class="post-date">{{ post.date | date: '%B %d, %Y' }}</h3>
-
-  {{ post.content }}
-
-  {% endfor %}
-    
-</div>
 
 
