@@ -10,17 +10,17 @@ layout: index
   }</style>
 
 <div class="posts">
-  <dl id="p">
+  <p id="p">
   {% for post in paginator.posts %}
 
   
 
-    <dt class="post-date">{{ post.date | date: '%B %d, %Y' }}</dt>
+    <h2 class="post-date">{{ post.date | date: '%B %d, %Y' }}</h2>
 
-  <dd>  {{ post.content }}</dd>
+  {{ post.content }}
 
   {% endfor %}
-     </dl>
+    
 </div>
 
 
